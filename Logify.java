@@ -1,4 +1,4 @@
-import window.Window;
+import ui.window.Window;
 import javax.swing.JFrame;
 
 public class Logify{

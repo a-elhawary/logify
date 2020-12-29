@@ -1,4 +1,4 @@
-package window;
+package ui.window;
 import javax.swing.JFrame;
 import java.awt.event.ComponentAdapter;
 import java.awt.event.ComponentEvent;

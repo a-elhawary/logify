@@ -1,4 +1,4 @@
-package window;
+package ui.window;
 /*
     This is a dimensions class that stores the dimensions of the major comonents
     the dimensions handler must be called from the static getInstance method
